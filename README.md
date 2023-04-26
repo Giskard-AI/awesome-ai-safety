@@ -25,7 +25,7 @@ TODO
 
 ## Natural Language Processing
 
-TODO
+* [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](http://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf) (Ribeiro et al., ACL 2020) `#robustness`
 
 ## Computer Vision
 
