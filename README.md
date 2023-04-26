@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/Giskard-AI/awesome-ai-safety?color=blue)
 [![Discord](https://img.shields.io/discord/939190303397666868?label=Discord)](https://gisk.ar/discord)
-![Mastodon](https://img.shields.io/mastodon/follow/109377499153541532?domain=https%3A%2F%2Ffosstodon.org&style=social)
+[![Mastodon](https://img.shields.io/mastodon/follow/109377499153541532?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@Giskard)
 [![HitCount](https://hits.dwyl.com/Giskard-AI/awesome-ai-safety.svg?style=flat)](http://hits.dwyl.com/Giskard-AI/awesome-ai-safety)
 
 Figuring out how to make your AI safer? How to avoid ethical biases, errors, privacy leaks or robustness issues in your AI models? 
