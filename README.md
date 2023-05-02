@@ -14,12 +14,25 @@ This repository contains a curated list of papers & technical articles on AI Qua
 
 You can browse papers by Machine Learning task category, and use hashtags like `#robustness` to explore AI risk types.
 
-1. [Tabular Machine Learning](#tabular-machine-learning)
-2. [Natural Language Processing](#natural-language-processing)
-3. [Computer Vision](#computer-vision)
-4. [Recommendation System](#recommendation-system)
-5. [Time Series](#time-series)
-6. [General ML Testing](#general-ml-testing)
+1. [General ML Testing](#general-ml-testing)
+2. [Tabular Machine Learning](#tabular-machine-learning)
+3. [Natural Language Processing](#natural-language-processing)
+4. [Computer Vision](#computer-vision)
+5. [Recommendation System](#recommendation-system)
+6. [Time Series](#time-series)
+
+## General ML Testing
+
+* [Machine learning testing: Survey, landscapes and horizons](https://ieeexplore.ieee.org/abstract/document/9000651/) (Zhang et al., 2020) `#General`
+* [Quality Assurance for AI-based Systems: Overview and Challenges](https://arxiv.org/abs/2102.05351) (Felderer et al., 2021) `#General`
+* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) (Breck et al., 2017) `#General`
+* [Reliable Machine Learning: Applying SRE Principles to ML in Production [BOOK]](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/) (Chen et al., 2022) `#Reliability`
+* [Metamorphic testing of decision support systems: A case study](https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2009.0084) (Kuo et al., 2010) `#Robustness`
+* [A Survey on Metamorphic Testing](https://ieeexplore.ieee.org/document/7422146) (Segura et al., 2016) `#Robustness`
+* [Testing and validating machine learning classifiers by metamorphic testing](https://www.sciencedirect.com/science/article/abs/pii/S0164121210003213) (Xie et al., 2011) `#Robustness`
+* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Breck et al., 2017) `#General`
+* [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf) (Krishna et al., 2022) `#Explanability`
+* [InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223) (Nori et al., 2019) `#Explainability` `#General`
 
 ## Tabular Machine Learning
 
@@ -55,16 +68,3 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Time Series
 
 [Contributions are welcome 💕](CONTRIBUTING.md)
-
-## General ML Testing
-
-* [Machine learning testing: Survey, landscapes and horizons](https://ieeexplore.ieee.org/abstract/document/9000651/) (Zhang et al., 2020) `#General`
-* [Quality Assurance for AI-based Systems: Overview and Challenges](https://arxiv.org/abs/2102.05351) (Felderer et al., 2021) `#General`
-* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) (Breck et al., 2017) `#General`
-* [Reliable Machine Learning: Applying SRE Principles to ML in Production [BOOK]](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/) (Chen et al., 2022) `#Reliability`
-* [Metamorphic testing of decision support systems: A case study](https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2009.0084) (Kuo et al., 2010) `#Robustness`
-* [A Survey on Metamorphic Testing](https://ieeexplore.ieee.org/document/7422146) (Segura et al., 2016) `#Robustness`
-* [Testing and validating machine learning classifiers by metamorphic testing](https://www.sciencedirect.com/science/article/abs/pii/S0164121210003213) (Xie et al., 2011) `#Robustness`
-* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Breck et al., 2017) `#General`
-* [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf) (Krishna et al., 2022) `#Explanability`
-* [InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223) (Nori et al., 2019) `#Explainability` `#General`
