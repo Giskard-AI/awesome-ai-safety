@@ -30,7 +30,6 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Metamorphic testing of decision support systems: A case study](https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2009.0084) (Kuo et al., 2010) `#Robustness`
 * [A Survey on Metamorphic Testing](https://ieeexplore.ieee.org/document/7422146) (Segura et al., 2016) `#Robustness`
 * [Testing and validating machine learning classifiers by metamorphic testing](https://www.sciencedirect.com/science/article/abs/pii/S0164121210003213) (Xie et al., 2011) `#Robustness`
-* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Breck et al., 2017) `#General`
 * [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf) (Krishna et al., 2022) `#Explainability`
 * [InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223) (Nori et al., 2019) `#Explainability` `#General`
 
