@@ -32,6 +32,8 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Testing and validating machine learning classifiers by metamorphic testing](https://www.sciencedirect.com/science/article/abs/pii/S0164121210003213) (Xie et al., 2011) `#Robustness`
 * [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf) (Krishna et al., 2022) `#Explainability`
 * [InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223) (Nori et al., 2019) `#Explainability` `#General`
+* [Fair regression: Quantitative definitions and reduction-based algorithms](https://proceedings.mlr.press/v97/agarwal19d.html) (Agarwal et al., 2019) `#Fairness`
+* [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](https://arxiv.org/abs/1903.10598) (Aghaei et al., 2019) `#Fairness`
 
 ## Tabular Machine Learning
 
@@ -48,17 +50,23 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) (Ribeiro et al., 2018) `#Explainability`
 * [Explanation-Based Human Debugging of NLP Models: A Survey](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00440/108932/Explanation-Based-Human-Debugging-of-NLP-Models-A) (Lertvittayakumjorn, et al., 2021) `#Debugging`
 * [SEAL: Interactive Tool for Systematic Error Analysis and Labeling](https://arxiv.org/abs/2210.05839) (Rajani et al., 2022) `#DataSlice` `#Explainability`
+* [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00041/43452/Data-Statements-for-Natural-Language-Processing) (Bender and Friedman, 2018) `#Bias`
+* [Equalizing Gender Biases in Neural Machine Translation with Word Embeddings Techniques](https://arxiv.org/abs/1901.03116) (Font and Costa-jussà, 2019) `#Bias`
+* [On Measuring Social Biases in Sentence Encoders](https://arxiv.org/abs/1903.10561) (May et al., 2019) `#Bias`
 
 ### Large Language Models
 
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) (Liang et al., 2022) `#General`
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
+* [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias`
 
 ## Computer Vision
 
 * [DOMINO: Discovering Systematic Errors with Cross-modal Embeddings Domino](https://arxiv.org/pdf/2203.14960.pdf) (Eyuboglu et al., 2022) `#DataSlice`
 * [Explaining in Style: Training a GAN to explain a classifier in StyleSpace](https://arxiv.org/pdf/2104.13369.pdf) (Lang et al., 2022) `#Robustness`
 * [Model Assertions for Debugging Machine Learning](https://ddkang.github.io/papers/2018/omg-nips-ws.pdf) (Kang et al., 2018) `#Debugging`
+* [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](https://dl.acm.org/doi/abs/10.1145/3306618.3314243) (Amini et al.) `#Bias`
+* [Diversity in Faces](https://arxiv.org/abs/1901.10436) (Merler et al.) `#Fairness #Accuracy`
 
 ## Recommendation System
 
