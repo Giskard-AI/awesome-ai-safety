@@ -66,7 +66,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Explaining in Style: Training a GAN to explain a classifier in StyleSpace](https://arxiv.org/pdf/2104.13369.pdf) (Lang et al., 2022) `#Robustness`
 * [Model Assertions for Debugging Machine Learning](https://ddkang.github.io/papers/2018/omg-nips-ws.pdf) (Kang et al., 2018) `#Debugging`
 * [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](https://dl.acm.org/doi/abs/10.1145/3306618.3314243) (Amini et al.) `#Bias`
-* [Diversity in Faces](https://arxiv.org/abs/1901.10436) (Merler et al.) `#Fairness #Accuracy`
+* [Diversity in Faces](https://arxiv.org/abs/1901.10436) (Merler et al.) `#Fairness` `#Accuracy`
 
 ## Recommendation System
 
