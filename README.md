@@ -54,6 +54,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Equalizing Gender Biases in Neural Machine Translation with Word Embeddings Techniques](https://arxiv.org/abs/1901.03116) (Font and Costa-jussà, 2019) `#Bias`
 * [On Measuring Social Biases in Sentence Encoders](https://arxiv.org/abs/1903.10561) (May et al., 2019) `#Bias`
 * [BBQ: A Hand-Built Bias Benchmark for Question Answering](https://arxiv.org/abs/2110.08193) (Parrish et al., 2022) `#Bias`
+* [What Do You See in this Patient? Behavioral Testing of Clinical NLP Models](https://arxiv.org/abs/2111.15512) (Van Aken et al., 2021) `#Bias`
 
 
 ### Large Language Models
