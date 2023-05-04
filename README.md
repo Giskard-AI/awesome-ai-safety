@@ -53,6 +53,8 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00041/43452/Data-Statements-for-Natural-Language-Processing) (Bender and Friedman, 2018) `#Bias`
 * [Equalizing Gender Biases in Neural Machine Translation with Word Embeddings Techniques](https://arxiv.org/abs/1901.03116) (Font and Costa-jussà, 2019) `#Bias`
 * [On Measuring Social Biases in Sentence Encoders](https://arxiv.org/abs/1903.10561) (May et al., 2019) `#Bias`
+* [BBQ: A Hand-Built Bias Benchmark for Question Answering](https://arxiv.org/abs/2110.08193) (Parrish et al., 2022) `#Bias`
+
 
 ### Large Language Models
 
