@@ -36,6 +36,11 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](https://arxiv.org/abs/1903.10598) (Aghaei et al., 2019) `#Fairness`
 * [Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning](https://jmlr.org/papers/volume21/20-312/20-312.pdf) (Henderson et al., 2020) `#Environment`
 
+### AI Incident Databases
+
+* [AI Incident Database](https://incidentdatabase.ai/) (Responsible AI Collaborative)
+* [AI Vulnerability Database](https://avidml.org/database/) (AVID)
+
 ## Tabular Machine Learning
 
 * [Machine Learning Model Drift Detection Via Weak Data Slices](https://arxiv.org/pdf/2108.05319.pdf) (Ackerman et al., 2021) `#DataSlice` `#Debugging` `#Drift`
