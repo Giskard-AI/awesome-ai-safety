@@ -50,6 +50,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Natural Language Processing
 
 * [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](http://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf) (Ribeiro et al., 2020) `#Robustness`
+* [Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization](https://arxiv.org/abs/2305.12782) (Chen et al. 2023)`#Robustness`
 * [Pipelines for Social Bias Testing of Large Language Models](https://openreview.net/pdf/8be28761ea130113e3be7747870c434f53e9b309.pdf) (Nozza et al., 2022) `#Bias` `#Ethics`
 * [Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (Ribeiro et al., 2016) `#Explainability`
 * [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Lundberg et al., 2017) `#Explainability`
@@ -65,6 +66,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 
 ### Large Language Models
 
+* [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://arxiv.org/abs/2310.07289) (Chen et al., 2023) `#reliability`
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) (Liang et al., 2022) `#General`
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
 * [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias`
