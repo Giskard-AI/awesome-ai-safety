@@ -69,7 +69,10 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://arxiv.org/abs/2310.07289) (Chen et al., 2023) `#reliability`
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) (Liang et al., 2022) `#General`
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
-* [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias`
+* [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias` 
+* [Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs](https://arxiv.org/abs/2505.15524) (Gao et al., 2025) `#Bias` `#Explainability`
+* [Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](https://arxiv.org/abs/2412.17034) (Gao et al., 2025) `#Jailbreak` `#Explainability`
+
 
 ## Computer Vision
 
