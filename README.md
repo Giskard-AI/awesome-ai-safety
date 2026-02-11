@@ -35,6 +35,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Fair regression: Quantitative definitions and reduction-based algorithms](https://proceedings.mlr.press/v97/agarwal19d.html) (Agarwal et al., 2019) `#Fairness`
 * [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](https://arxiv.org/abs/1903.10598) (Aghaei et al., 2019) `#Fairness`
 * [Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning](https://jmlr.org/papers/volume21/20-312/20-312.pdf) (Henderson et al., 2020) `#Environment`
+* [Distributional AGI Safety: Governance Trade-offs in Multi-Agent Systems Under Adversarial Pressure](https://github.com/swarm-ai-safety/swarm) (Savitt et al., 2026) `#Safety` `#Robustness`
 
 ### AI Incident Databases
 
