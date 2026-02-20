@@ -41,6 +41,10 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [AI Incident Database](https://incidentdatabase.ai/) (Responsible AI Collaborative)
 * [AI Vulnerability Database](https://avidml.org/database/) (AVID)
 
+### AI Safety Tools & Platforms
+
+* [Cordum](https://github.com/cordum-io/cordum) - Safety-first agent orchestration platform. Safety kernel evaluates every action before execution (deny/escalate/allow), with 2-phase output scanning, fail-closed design, and full audit trail. `#AgentSafety` `#Orchestration`
+
 ## Tabular Machine Learning
 
 * [Machine Learning Model Drift Detection Via Weak Data Slices](https://arxiv.org/pdf/2108.05319.pdf) (Ackerman et al., 2021) `#DataSlice` `#Debugging` `#Drift`
