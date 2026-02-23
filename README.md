@@ -86,3 +86,5 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Time Series
 
 [Contributions are welcome 💕](CONTRIBUTING.md)
+
+- [ODEI Constitutional Guardrails](https://api.odei.ai) - Production constitutional AI safety system. 7-layer validation (immutability, temporal, integrity, authority, dedup, provenance, constitutional alignment). Returns APPROVED/REJECTED/ESCALATE. [GitHub](https://github.com/odei-ai/web)
