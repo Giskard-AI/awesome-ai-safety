@@ -30,7 +30,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Metamorphic testing of decision support systems: A case study](https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2009.0084) (Kuo et al., 2010) `#Robustness`
 * [A Survey on Metamorphic Testing](https://ieeexplore.ieee.org/document/7422146) (Segura et al., 2016) `#Robustness`
 * [Testing and validating machine learning classifiers by metamorphic testing](https://www.sciencedirect.com/science/article/abs/pii/S0164121210003213) (Xie et al., 2011) `#Robustness`
-* [The Disagreement Problem in Explainable Machine Learning: A Practitioner’s Perspective](https://arxiv.org/pdf/2202.01602.pdf) (Krishna et al., 2022) `#Explainability`
+* [The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective](https://arxiv.org/pdf/2202.01602.pdf) (Krishna et al., 2022) `#Explainability`
 * [InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223) (Nori et al., 2019) `#Explainability` `#General`
 * [Fair regression: Quantitative definitions and reduction-based algorithms](https://proceedings.mlr.press/v97/agarwal19d.html) (Agarwal et al., 2019) `#Fairness`
 * [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](https://arxiv.org/abs/1903.10598) (Aghaei et al., 2019) `#Fairness`
@@ -40,6 +40,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 
 * [AI Incident Database](https://incidentdatabase.ai/) (Responsible AI Collaborative)
 * [AI Vulnerability Database](https://avidml.org/database/) (AVID)
+* [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset of 109 documented AI-driven workforce displacement events across 15 countries, with sourced evidence and attribution tiers. `#Societal Impact`
 
 ## Tabular Machine Learning
 
