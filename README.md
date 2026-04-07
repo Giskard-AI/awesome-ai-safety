@@ -20,6 +20,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 4. [Computer Vision](#computer-vision)
 5. [Recommendation System](#recommendation-system)
 6. [Time Series](#time-series)
+7. [Governance & Guardrails](#governance--guardrails)
 
 ## General ML Testing
 
@@ -86,3 +87,6 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Time Series
 
 [Contributions are welcome 💕](CONTRIBUTING.md)
+
+## Governance & Guardrails
+* [SupraWall](https://supra-wall.com): Open-source runtime security layer for autonomous agents. Intercepts tool calls, enforces policies, and generates audit trails to ensure safe agent behavior. Apache 2.0.
