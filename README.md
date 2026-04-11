@@ -86,3 +86,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Time Series
 
 [Contributions are welcome 💕](CONTRIBUTING.md)
+
+## AI Trust Evaluation Platforms
+
+* [TrustModel.ai](https://trustmodel.ai) - Independent AI trust scoring platform evaluating AI systems across 10 dimensions (safety, fairness, accuracy, privacy, transparency, robustness, accountability, explainability, compliance, reliability). Public trust rankings for [Chrome extensions](https://trustmodel.ai/chrome-extensions) (108 scored), [MCP servers](https://trustmodel.ai/mcp-servers) (91 scored), [HR AI systems](https://trustmodel.ai/benchmark) (15 scored), and [230+ enterprise COTS applications](https://trustmodel.ai/cots). `#General` `#Fairness` `#Robustness` `#Explainability`
