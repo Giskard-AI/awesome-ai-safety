@@ -66,6 +66,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 
 ### Large Language Models
 
+* [Cognometry v0: 8-Benchmark Cross-Validated Hallucination Detection in Production LLMs](https://doi.org/10.5281/zenodo.19703527) (Flobi, 2026) `#Hallucination` `#Reliability` `#Benchmarking`
 * [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://arxiv.org/abs/2310.07289) (Chen et al., 2023) `#reliability`
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) (Liang et al., 2022) `#General`
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
