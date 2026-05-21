@@ -86,3 +86,5 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Time Series
 
 [Contributions are welcome 💕](CONTRIBUTING.md)
+
+- [CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Deterministic AI liability attribution for EU AI Act compliance. Anchors every AI decision to an immutable certificate chain without using LLMs.
