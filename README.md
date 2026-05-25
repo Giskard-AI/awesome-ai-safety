@@ -82,6 +82,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 ## Recommendation System
 
 * [Beyond NDCG: behavioral testing of recommender systems with RecList](https://arxiv.org/abs/2111.09963) (Chia et al., 2021) `#Robustness`
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 
 ## Time Series
 
