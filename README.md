@@ -71,6 +71,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
 * [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias`
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for AI agents on Solana. Helps verify agent wallet autonomy and transaction history before granting access — an AI safety primitive for multi-agent systems. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Computer Vision
 
 * [DOMINO: Discovering Systematic Errors with Cross-modal Embeddings Domino](https://arxiv.org/pdf/2203.14960.pdf) (Eyuboglu et al., 2022) `#DataSlice`
