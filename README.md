@@ -40,6 +40,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 
 * [AI Incident Database](https://incidentdatabase.ai/) (Responsible AI Collaborative)
 * [AI Vulnerability Database](https://avidml.org/database/) (AVID)
+* [Agent Failure Modes](https://pegriollc.github.io/agent-failure-modes/) (Pegrio, 2026) `#Agents` `#Reliability` `#Observability`
 
 ## Tabular Machine Learning
 
