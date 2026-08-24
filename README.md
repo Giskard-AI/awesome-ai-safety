@@ -70,6 +70,8 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) (Liang et al., 2022) `#General`
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
 * [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias`
+* [AdverseMed-500: A Hand-Verified False-Premise Benchmark for Measuring Miscalibration in Medical Language Models](https://github.com/calnugget/adversemed-500) (Vallamsetty, 2026) `#Calibration` `#Abstention` `#Medical` `#Benchmark`
+* [An Independent Evaluation of AI Scientist v2 on Biomedical Research Tasks](https://github.com/calnugget/ai-scientist-v2-biomedical-audit) (Vallamsetty, 2026) `#Agents` `#Medical` `#Evaluation`
 
 ## Computer Vision
 
