@@ -70,6 +70,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) (Liang et al., 2022) `#General`
 * [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (Stiennon et al., 2020) `#HumanFeedback`
 * [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) (Bordia and Bowman, 2019) `#Bias`
+* [Autonomous AI Agent Security Incidents of 2026: Benchmark Corpus & Falsification Matrix](https://doi.org/10.5281/zenodo.22737862) (Doletskyi, 2026) `#Robustness` `#AgentSecurity`
 
 ## Computer Vision
 
