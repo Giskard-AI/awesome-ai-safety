@@ -40,6 +40,7 @@ You can browse papers by Machine Learning task category, and use hashtags like `
 
 * [AI Incident Database](https://incidentdatabase.ai/) (Responsible AI Collaborative)
 * [AI Vulnerability Database](https://avidml.org/database/) (AVID)
+* [The Machine Record](https://themachinerecord.com) (independent register of incidents involving commercial robots and robotaxis, CC BY 4.0)
 
 ## Tabular Machine Learning
 
